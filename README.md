@@ -146,6 +146,7 @@ fido.showing_self()
 # <__main__.Dog object at 0x104f8bfa0>
 ```
 
+
 You might recognize this output from earlier- `self` is the same type of object
 as `fido`! As a matter of fact, it _is_ `fido`!
 
